@@ -1,4 +1,4 @@
-Aplikasi To-Do List sederhana menggunakan bahasa pemrograman python untuk membantu Anda mengelola tugas sehari-hari dengan mudah dan efisien.
+To-Do List sederhana menggunakan bahasa pemrograman python untuk membantu Anda mengelola tugas sehari-hari dengan mudah dan efisien.
 
 Cara Gampang Jalninnya
 - BUKA IDE ONLINE PYTHON DI GOOGLE ATAU BROWSER KALIAN MASING-MASING LALU SALIN KODE NYA DAN JALANKAN PROGRAMNYA
