@@ -2,6 +2,7 @@ Aplikasi To-Do List sederhana menggunakan bahasa pemrograman python untuk memban
 
 Cara Gampang Jalninnya
 - BUKA IDE ONLINE PYTHON DI GOOGLE ATAU BROWSER KALIAN MASING-MASING LALU SALIN KODE NYA DAN JALANKAN PROGRAMNYA
+- Ini link IDE online nya https://www.online-python.com/
 
 ## Cara Instalasi
 
